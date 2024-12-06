@@ -34,7 +34,7 @@
 <body>
   <!-- lagu start -->
   <audio loop id="lagu">
-    <source src="audio/audio.mp3" type="audio/mp3" />
+    <source src="audio.mp3" type="audio/mp3" />
   </audio>
   <!-- lagu end -->
   <!-- popup start -->
